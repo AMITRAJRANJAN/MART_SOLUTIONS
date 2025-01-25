@@ -1,0 +1,2 @@
+shopgui.SHOPSETTINGFRAME
+shopgui.SHOPSETTING

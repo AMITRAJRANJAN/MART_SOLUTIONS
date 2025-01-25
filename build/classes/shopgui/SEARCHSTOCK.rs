@@ -1,0 +1,2 @@
+shopgui.SEARCHSTOCKFRAME
+shopgui.SEARCHSTOCK
